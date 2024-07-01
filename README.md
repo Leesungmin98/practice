@@ -62,7 +62,7 @@ https://www.google.com
 ### 테이블 만들기
 |Header|Header2|
 |:--:|:--|
-|content1|contents2|
-|content1|contents2|
-|content1|contents2|
+|contents1|contents2|
+|contents1|contents2|
+|contents1|contents2|
 
