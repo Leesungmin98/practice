@@ -23,6 +23,7 @@
 
 ### 코드 넣기
 벡틱으로 표현 ` `
+
 `function add(x, y) return x + y;`
 
 ---
