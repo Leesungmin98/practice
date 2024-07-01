@@ -43,4 +43,5 @@ https://www.google.com
 ### 이미지 삽입하기
 #### 1. 링크로 삽입하기
 ![등갈비 이미지](https://i.ytimg.com/vi/LWpEdwJV45E/maxresdefault.jpg)
+![등갈비 동영상](https://www.youtube.com/watch?v=LWpEdwJV45E)
 
