@@ -28,8 +28,8 @@
 ---
 
 ### 숫자 리스트
-1.first
-2.second
+1. first
+2. second
 
 ---
 
