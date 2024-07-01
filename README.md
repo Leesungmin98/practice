@@ -29,5 +29,6 @@
 
 ### 하이퍼 텍스트 넣기
 https://www.google.com
-
 [구글로 연결](https://www.google.com)
+[구글로 연결](https://www.google.com, 검색사이트)
+
