@@ -57,3 +57,10 @@ https://www.google.com
 #### 2. 깃에 올려 삽입하기
 ![meat](./img/meat.jpg)
 
+---
+
+### 테이블 만들기
+
+|Header|Header2|
+|;--;|;--|
+
