@@ -45,3 +45,6 @@ https://www.google.com
 ![등갈비 이미지](https://i.ytimg.com/vi/LWpEdwJV45E/maxresdefault.jpg)
 [등갈비 동영상](https://www.youtube.com/watch?v=LWpEdwJV45E)
 
+#### 2. 깃에 올려 삽입하기
+![meat](./img/meat.jpg)
+
